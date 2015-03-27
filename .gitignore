@@ -7,3 +7,39 @@ _site/
 #OS junk files
 [Tt]humbs.db
 *.DS_Store
+# git merge artifacts
+*.orig
+
+# jekyll Compile Folder
+_site/
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+# git merge artifacts
+*.orig
+
+# jekyll Compile Folder
+_site/
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+# git merge artifacts
+*.orig
+
+# jekyll Compile Folder
+_site/
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+# git merge artifacts
+*.orig
+
+# jekyll Compile Folder
+_site/
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
